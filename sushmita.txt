@@ -4,3 +4,5 @@ qqqqqqqqq
 
 
 new update
+
+Git_Sample1_newBn1_has changed
